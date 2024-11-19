@@ -1,1 +1,1 @@
-# scom_template_and_scripts
+# SCOM TEMPLATE AND SCRIPTS 
